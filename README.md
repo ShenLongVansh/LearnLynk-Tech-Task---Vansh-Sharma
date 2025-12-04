@@ -112,7 +112,7 @@ File: `frontend/pages/dashboard/today.tsx`
 - Added green success banner after marking a task complete.  
 - Page updates smoothly without flashing or white-screen transitions.
 
-A live deployment can be provided upon request.
+**I have deployed it on Vercel with some random data, [here](https://learn-lynk-tech-task-vansh-sharma.vercel.app/dashboard/today)**
 
 ---
 
