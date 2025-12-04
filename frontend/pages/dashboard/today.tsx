@@ -142,7 +142,7 @@ export default function TodayDashboard() {
       }}
     >
       <h1 style={{ textAlign: "center", marginBottom: "1.5rem" }}>
-        Today&apos;s Tasks
+        Today&apos;s Tasks (view console for addditional details while marking complete)
       </h1>
 
       {initialLoading && (
